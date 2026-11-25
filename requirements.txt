@@ -1,0 +1,4 @@
+PySide6>=6.7.0
+yt-dlp>=2024.12.13
+packaging>=24.0
+Pillow>=10.0.0

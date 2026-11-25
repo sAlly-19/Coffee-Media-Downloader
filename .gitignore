@@ -1,0 +1,35 @@
+# Ambientes virtuais Python
+.venv/
+venv/
+env/
+ENV/
+
+# Bytecode e caches Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Empacotamento / build
+build/
+dist/
+*.spec
+
+# IDEs e Sistema Operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dados sensíveis / arquivos temporários locais
+cookies.txt
+*.log
+*.tmp
+*.bak
